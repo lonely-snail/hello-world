@@ -1,11 +1,7 @@
-�ո��µ�����
+﻿�ո��µ�����
 
 
 4444
 
 
-<<<<<<< HEAD
-ttttttttttt
-=======
-chongtu   jie jue    sssssss    222
->>>>>>> 5aa3ff6334e4a393c6deacb7a228d93fe4cf3c18
+222
